@@ -27,5 +27,3 @@ This project showcases my skills in:
 
 ## Author
 **Navyasri S**
-
-GitHub: https://github.com/navyasri-S
